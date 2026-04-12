@@ -27,7 +27,11 @@ Full-stack developer with a passion for UI/UX design and problem-solving. Curren
 
 **Backend & Others** · ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+## Extra Interests
+
+- 🧠 Knowledge Management
+- 🎨 UI/UX Design
+
 ## Links
 
 [![Website](https://img.shields.io/badge/-roryc.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://roryc.vercel.app) [![GitHub](https://img.shields.io/badge/-Coiggahou2002-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Coiggahou2002)
-
