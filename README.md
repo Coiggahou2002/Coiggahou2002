@@ -19,6 +19,13 @@ Full-stack developer with a passion for UI/UX design and problem-solving. Curren
 
 [![Nuxter profile](https://nuxters.nuxt.com/card/Coiggahou2002/og.png)](https://nuxters.nuxt.com/Coiggahou2002)
 
+## My Repos
+
+| Repo | Description |
+|---|---|
+| [setup](https://github.com/Coiggahou2002/setup) | Personal macOS setup guide — a step-by-step checklist for bootstrapping a new Mac from scratch |
+| [rory-skills](https://github.com/Coiggahou2002/rory-skills) | Claude Code skills I've created for my own use, including core engineering principles |
+
 ## Tech Stack
 
 **Web** · ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Nuxt](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
