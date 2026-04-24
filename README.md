@@ -16,19 +16,21 @@ Full-stack developer with a passion for UI/UX design and problem-solving. Curren
 - [vueuse/vueuse#3975](https://github.com/vueuse/vueuse/pull/3975) — Add router addon to Nuxt module
 - [nuxt-mongoose#54](https://github.com/nuxtaid/nuxt-mongoose/pull/54) — Fix module setup when missing MONGODB_URI
 - [nitrojs/nitro#1446](https://github.com/nitrojs/nitro/pull/1446) — Docs typo fix
+- [jarrodwatts/claude-hud#492](https://github.com/jarrodwatts/claude-hud/pull/492) — Fix context bar stuck after /compact
 
 [![Nuxter profile](https://nuxters.nuxt.com/card/Coiggahou2002/og.png)](https://nuxters.nuxt.com/Coiggahou2002)
 
-## My Repos
+## Projects
 
 | Repo | Description |
 |---|---|
 | [setup](https://github.com/Coiggahou2002/setup) | Personal macOS setup guide — a step-by-step checklist for bootstrapping a new Mac from scratch |
 | [rory-skills](https://github.com/Coiggahou2002/rory-skills) | Claude Code skills I've created for my own use, including core engineering principles |
+| [dagdo](https://github.com/Coiggahou2002/dagdo) | Dependency-aware todo manager — tasks as a DAG, topological sort tells you what to do next |
 
 ## Tech Stack
 
-**Web** · ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Nuxt](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**Web** · ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/-Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Nuxt](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Mobile** · ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![ObjC](https://img.shields.io/badge/-Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
 
