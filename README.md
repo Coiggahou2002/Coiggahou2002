@@ -25,7 +25,7 @@ Full-stack developer with a passion for UI/UX design and problem-solving. Curren
 | Repo | Description |
 |---|---|
 | [setup](https://github.com/Coiggahou2002/setup) | Personal macOS setup guide — a step-by-step checklist for bootstrapping a new Mac from scratch |
-| [rory-skills](https://github.com/Coiggahou2002/rory-skills) | Claude Code skills I've created for my own use, including core engineering principles |
+| [skills](https://github.com/Coiggahou2002/skills) | Claude Code skills I've created for my own use, including core engineering principles |
 | [dagdo](https://github.com/Coiggahou2002/dagdo) | Dependency-aware todo manager — tasks as a DAG, topological sort tells you what to do next |
 
 ## Tech Stack
