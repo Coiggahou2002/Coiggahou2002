@@ -17,6 +17,7 @@ Full-stack developer with a passion for UI/UX design and problem-solving. Curren
 - [nuxt-mongoose#54](https://github.com/nuxtaid/nuxt-mongoose/pull/54) — Fix module setup when missing MONGODB_URI
 - [nitrojs/nitro#1446](https://github.com/nitrojs/nitro/pull/1446) — Docs typo fix
 - [jarrodwatts/claude-hud#492](https://github.com/jarrodwatts/claude-hud/pull/492) — Fix context bar stuck after /compact
+- [k1LoW/mo#201](https://github.com/k1LoW/mo/pull/201) — Fix dark-theme `color-scheme` on the root selector
 
 [![Nuxter profile](https://nuxters.nuxt.com/card/Coiggahou2002/og.png)](https://nuxters.nuxt.com/Coiggahou2002)
 
