@@ -49,4 +49,4 @@ Full-stack developer with a passion for UI/UX design and problem-solving. Curren
 
 ## Links
 
-[![Website](https://img.shields.io/badge/-roryc.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://roryc.vercel.app) [![GitHub](https://img.shields.io/badge/-Coiggahou2002-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Coiggahou2002)
+[![Website](https://img.shields.io/badge/-coiggahou2002.github.io-000?style=flat-square&logo=githubpages&logoColor=white)](https://coiggahou2002.github.io)
