@@ -12,7 +12,11 @@ Full-stack developer with a passion for UI/UX design and problem-solving. Curren
 
 ## Projects
 
-[![VibeCV — no templates, just talk: chat about your experience and get a one-page PDF + Word resume in Chinese and English](assets/vibecv-poster.png)](https://vibecv.me)
+[![VibeCV — no templates, just talk: chat about your experience and get a one-page PDF + Word resume in Chinese and English](assets/vibecv-poster.png)](https://vibecv.me/?utm_source=github&utm_medium=profile)
+
+<p align="center">
+  <b><a href="https://vibecv.me/?utm_source=github&utm_medium=profile">vibecv.me</a></b> · 聊天写简历 · 中英双语 PDF + Word · 第一份免费
+</p>
 
 | Repo | Description |
 |---|---|
