@@ -10,17 +10,6 @@ Full-stack developer with a passion for UI/UX design and problem-solving. Curren
 - 🛍️ **Tencent · WeChat Stores** (2025 – 2026) — WeChat Mini Programs, Mini Program engineering toolchain, VSCode plugin & dependency analysis tooling
 - 📖 **Tencent · WeRead** (2023 – 2025) — Vue 3, Nuxt.js, H5 & React Native cross-platform development
 
-## Open Source Contributions
-
-- [nuxt/content#2655](https://github.com/nuxt/content/pull/2655) — Add Nitro hooks types declarations
-- [vueuse/vueuse#3975](https://github.com/vueuse/vueuse/pull/3975) — Add router addon to Nuxt module
-- [nuxt-mongoose#54](https://github.com/nuxtaid/nuxt-mongoose/pull/54) — Fix module setup when missing MONGODB_URI
-- [jarrodwatts/claude-hud#492](https://github.com/jarrodwatts/claude-hud/pull/492) — Fix context bar stuck after /compact
-- [k1LoW/mo#201](https://github.com/k1LoW/mo/pull/201) — Fix dark-theme `color-scheme` on the root selector
-- [migueldeicaza/SwiftTerm#585](https://github.com/migueldeicaza/SwiftTerm/pull/585) — Center glyphs vertically when `lineSpacing > 1`
-
-[![Nuxter profile](https://nuxters.nuxt.com/card/Coiggahou2002/og.png)](https://nuxters.nuxt.com/Coiggahou2002)
-
 ## Projects
 
 [![VibeCV — no templates, just talk: chat about your experience and get a one-page PDF + Word resume in Chinese and English](assets/vibecv-poster.png)](https://vibecv.me)
@@ -31,6 +20,17 @@ Full-stack developer with a passion for UI/UX design and problem-solving. Curren
 | [skills](https://github.com/Coiggahou2002/skills) | Claude Code skills I've created for my own use, including core engineering principles |
 | [dagdo](https://github.com/Coiggahou2002/dagdo) | Dependency-aware todo manager — tasks as a DAG, topological sort tells you what to do next |
 | [grokbot-web](https://github.com/Coiggahou2002/grokbot-web) | Animated GrokBot avatar for the web — 25 expressions, 18 shapes, 39 states, gaze and head turn on Canvas 2D, zero runtime deps. A TypeScript port of the Flutter widget [nasawz/GrokBot](https://github.com/nasawz/GrokBot) · [live demo](https://coiggahou2002.github.io/grokbot-web/) |
+
+## Open Source Contributions
+
+- [nuxt/content#2655](https://github.com/nuxt/content/pull/2655) — Add Nitro hooks types declarations
+- [vueuse/vueuse#3975](https://github.com/vueuse/vueuse/pull/3975) — Add router addon to Nuxt module
+- [nuxt-mongoose#54](https://github.com/nuxtaid/nuxt-mongoose/pull/54) — Fix module setup when missing MONGODB_URI
+- [jarrodwatts/claude-hud#492](https://github.com/jarrodwatts/claude-hud/pull/492) — Fix context bar stuck after /compact
+- [k1LoW/mo#201](https://github.com/k1LoW/mo/pull/201) — Fix dark-theme `color-scheme` on the root selector
+- [migueldeicaza/SwiftTerm#585](https://github.com/migueldeicaza/SwiftTerm/pull/585) — Center glyphs vertically when `lineSpacing > 1`
+
+[![Nuxter profile](https://nuxters.nuxt.com/card/Coiggahou2002/og.png)](https://nuxters.nuxt.com/Coiggahou2002)
 
 ## Tech Stack
 
